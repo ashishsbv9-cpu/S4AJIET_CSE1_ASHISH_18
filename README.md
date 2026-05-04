@@ -1,1 +1,6 @@
 1) Given two integers a and b, return the sum of the two integers without using the operators + and -.
+
+2)Write a Java program to swap the values of two integers. Demonstrate multiple approaches to achieve the swap:
+    Using a temporary variable
+    Without using a temporary variable (addition and subtraction method)
+    Using bitwise XOR operator
