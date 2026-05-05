@@ -10,3 +10,5 @@
 4)Finds the k‑th largest element in a user‑entered array using sorting.
 
 5) Finds the k‑th smallest element in a user‑entered array using sorting.
+
+6)Counts how many student ranks are cut when each new rank is lower than the previous one.
