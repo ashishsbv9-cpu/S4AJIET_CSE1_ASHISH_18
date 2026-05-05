@@ -8,3 +8,5 @@
 3)Calculate how many monkeys remain on the tree after eating bananas and peanuts based on given inputs
 
 4)Finds the k‑th largest element in a user‑entered array using sorting.
+
+5) Finds the k‑th smallest element in a user‑entered array using sorting.
