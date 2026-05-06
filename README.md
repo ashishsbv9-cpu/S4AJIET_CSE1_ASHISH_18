@@ -18,3 +18,5 @@
 8)Checks whether two strings are anagrams of each other by sorting and comparing their characters.
 
 9)Given an integer x, return true if x is a palindrome, and false otherwise.
+
+10)Counts the number of vowels and consonants in a given string, ignoring spaces, digits, and special characters.
