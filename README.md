@@ -1,32 +1,41 @@
-1) Given two integers a and b, return the sum of the two integers without using the operators + and -.
+# 🚀 Java Practice Programs
 
-2)Write a Java program to swap the values of two integers. Demonstrate multiple approaches to achieve the swap:
-    Using a temporary variable
-    Without using a temporary variable (addition and subtraction method)
-    Using bitwise XOR operator
-    
-3)Calculate how many monkeys remain on the tree after eating bananas and peanuts based on given inputs
+A curated collection of Java exercises designed to strengthen problem‑solving skills and demonstrate core concepts in **algorithms, arrays, strings, and collections**.  
+Each file is self‑contained and runnable independently.
 
-4)Finds the k‑th largest element in a user‑entered array using sorting.
+---
 
-5) Finds the k‑th smallest element in a user‑entered array using sorting.
+## 📂 Repository Contents
 
-6)Counts how many student ranks are cut when each new rank is lower than the previous one.
+### 🔢 Core Logic
+- **sum.java** → Add two integers without using `+` or `-`.
+- **swap.java** → Swap integers (temporary variable, arithmetic, XOR).
+- **cut_ranks.java** → Count rank cuts when each new rank is lower.
 
-7)Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
+### 📊 Arrays
+- **MonkeysOnTree.java** → Calculate monkeys remaining after eating bananas/peanuts.
+- **Kth_largest.java** → Find the k‑th largest element in an array.
+- **Kth_Smallest.java** → Find the k‑th smallest element in an array.
+- **ReverseInteger.java** → Reverse digits of a 32‑bit integer safely.
 
-8)Checks whether two strings are anagrams of each other by sorting and comparing their characters.
+### 🔤 Strings
+- **Anagram.java** → Check if two strings are anagrams.
+- **palindrome.java** → Check if an integer is a palindrome.
+- **VowelConsonantCount.java** → Count vowels and consonants in a string.
 
-9)Given an integer x, return true if x is a palindrome, and false otherwise.
+### 📚 Collections
+- **Arraylist.java** → Basic `ArrayList` operations.
+- **Updated_Arraylist.java** → `ArrayList` operations with sorting.
+- **HashSet.java** → Basic `HashSet` operations.
+- **HashMap.java** → Basic `HashMap` operations.
+- **Updated_HashMap.java** → `HashMap` operations + character frequency counter.
 
-10)Counts the number of vowels and consonants in a given string, ignoring spaces, digits, and special characters.
+---
 
-11)Demonstrates basic ArrayList operations in Java: adding elements, checking size, removing by index, printing the list, and accessing elements.
+## ▶️ How to Run
 
-12)Demonstrates basic ArrayList operations in Java including adding, removing, accessing elements, and sorting in ascending and descending order.
+Compile and run any program:
 
-13)Demonstrates basic HashSet operations in Java: adding elements, checking size, searching, removing, and clearing the set.
-
-14)Demonstrates basic HashMap operations in Java: adding key–value pairs, checking size, retrieving values, and clearing the map.
-
-15) Java program demonstrating basic `HashMap` operations and character frequency counting.
+```bash
+javac FileName.java
+java FileName
