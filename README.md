@@ -28,3 +28,5 @@
 13)Demonstrates basic HashSet operations in Java: adding elements, checking size, searching, removing, and clearing the set.
 
 14)Demonstrates basic HashMap operations in Java: adding key–value pairs, checking size, retrieving values, and clearing the map.
+
+15) Java program demonstrating basic `HashMap` operations and character frequency counting.
