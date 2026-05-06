@@ -22,3 +22,5 @@
 10)Counts the number of vowels and consonants in a given string, ignoring spaces, digits, and special characters.
 
 11)Demonstrates basic ArrayList operations in Java: adding elements, checking size, removing by index, printing the list, and accessing elements.
+
+12)Demonstrates basic ArrayList operations in Java including adding, removing, accessing elements, and sorting in ascending and descending order.
