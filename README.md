@@ -26,3 +26,5 @@
 12)Demonstrates basic ArrayList operations in Java including adding, removing, accessing elements, and sorting in ascending and descending order.
 
 13)Demonstrates basic HashSet operations in Java: adding elements, checking size, searching, removing, and clearing the set.
+
+14)Demonstrates basic HashMap operations in Java: adding key–value pairs, checking size, retrieving values, and clearing the map.
